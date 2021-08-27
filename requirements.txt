@@ -3,3 +3,5 @@ gbmgeometry
 gbm_drm_gen
 astromodels
 git+git://github.com/threeml/threeML@gbm_data_download#egg=threeML
+jupyter_contrib_nbextensions
+jupyterthemes

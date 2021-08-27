@@ -1,0 +1,3 @@
+jupyter contrib nbextension install --system
+jupyter nbextension enable collapsible_headings.main
+jt -t onedork -f firacode -T -N -kl -cellw 90%  -cursc g
