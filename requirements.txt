@@ -1,0 +1,5 @@
+astropy
+gbmgeometry
+gbm_drm_gen
+astromodels
+git+git://github.com/threeml/threeML@master#egg=threeML
